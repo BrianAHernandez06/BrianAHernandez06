@@ -9,6 +9,8 @@
 
 - <b>Security Audit Controls and Compliance Checklist
   - [Conducting a simulated security audit for a for fictional company](https://docs.google.com/document/d/1EbjfMeVgB45Gr_5jzh2BFTSe3ZyGaQojzq7bhrBdnKk/edit?usp=sharing)
+- <b>File and Directory Permission within Linux
+  - [Reviewing and alterting permissions in Linux using the Bash shell](https://docs.google.com/document/d/1U8DGV_dqWII53aGHcWirwjG-8jDV3MPPNngZAeKXypo/edit?usp=sharing) 
 
 <h2> 📑 Certifications:</h2>
 
