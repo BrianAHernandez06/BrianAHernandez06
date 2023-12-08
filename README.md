@@ -11,6 +11,8 @@
   - [Conducting a simulated security audit for a for fictional company](https://docs.google.com/document/d/1EbjfMeVgB45Gr_5jzh2BFTSe3ZyGaQojzq7bhrBdnKk/edit?usp=sharing)
 - <b>File and Directory Permission within Linux
   - [Reviewing and alterting permissions in Linux using the Bash shell](https://docs.google.com/document/d/1U8DGV_dqWII53aGHcWirwjG-8jDV3MPPNngZAeKXypo/edit?usp=sharing) 
+- <b>Vulnerability Assessment Report
+   - [Preforming and assessment in possible vulnerabilities and providing a remediation solution to adress said vulnerabilities](https://docs.google.com/document/d/1DNifydvM__StZnFmBZ_iqJ4pdA7o9gYATdv3iNwyD9A/edit?usp=sharing)
 
 <h2> 📑 Certifications:</h2>
 
