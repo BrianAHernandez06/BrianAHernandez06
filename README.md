@@ -20,6 +20,7 @@
 
 - [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/5SMKMAFRTGUT)
 - [CompTia Security+ Certificate](https://drive.google.com/file/d/1aezdoIkMVzmtgDc00QAh4aJhVs1A_PC3/view?usp=sharing)
+- [CompTia A+ Certificate](https://drive.google.com/file/d/1Tv3c3cgfTjoc_d42hzDHVOlhmVSIRN0l/view?usp=sharing)
 
 <h2> 🤳 Connect with me:</h2>
 
