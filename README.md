@@ -13,8 +13,8 @@
   - [Reviewing and alterting permissions in Linux using the Bash shell](https://docs.google.com/document/d/1U8DGV_dqWII53aGHcWirwjG-8jDV3MPPNngZAeKXypo/edit?usp=sharing) 
 - <b>Vulnerability Assessment Report
    - [Preforming and assessment in possible vulnerabilities and providing a remediation solution to adress said vulnerabilities](https://docs.google.com/document/d/1DNifydvM__StZnFmBZ_iqJ4pdA7o9gYATdv3iNwyD9A/edit?usp=sharing)
-- <b>SIEM and VM Creation Using Azure
-   - [Generating a SIEM tool in a simulated environment that monitors and notfies of incidents](https://docs.google.com/document/d/1wq2HI9gf7QnkwxhxOW0gyxWLzXQPwvoTPC1yPjTdd7w/edit?usp=sharing)
+- <b>Creating a SIEM dashboard with Splunk
+   - [Generating a SIEM tool in a simulated environment that monitors and notfies of incidents](https://docs.google.com/document/d/1-4EPg7m6CprNODuhDQqPOXh8Mhb7iYzZfRDjJUsb4_o/edit?usp=sharing)
 
 <h2> 📑 Certifications:</h2>
 
