@@ -14,7 +14,7 @@
 - <b>Vulnerability Assessment Report
    - [Preforming and assessment in possible vulnerabilities and providing a remediation solution to adress said vulnerabilities](https://docs.google.com/document/d/1DNifydvM__StZnFmBZ_iqJ4pdA7o9gYATdv3iNwyD9A/edit?usp=sharing)
 - <b>Creating a SIEM dashboard with Splunk
-   - [Generating a SIEM tool in a simulated environment that monitors and notfies of incidents](https://docs.google.com/document/d/1-4EPg7m6CprNODuhDQqPOXh8Mhb7iYzZfRDjJUsb4_o/edit?usp=sharing)
+   - [Generating a SIEM tool in a simulated environment that monitors and notifies of incidents](https://docs.google.com/document/d/1-4EPg7m6CprNODuhDQqPOXh8Mhb7iYzZfRDjJUsb4_o/edit?usp=sharing)
 
 <h2> 📑 Certifications:</h2>
 
