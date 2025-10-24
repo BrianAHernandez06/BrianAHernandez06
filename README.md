@@ -1,9 +1,12 @@
 <h1>Hey there, I'm Brian! --- Data Analyst and Cybersecurity Professional
 
-<h2>🧼 Data Cleaning Projects:</h2>
+<h2>🧼 Data Analyst Projects:</h2>
 
 - <b>Video Game Genre Sales (2010)
   - [Praciting using SQL(BigQuery) and Google Spreadsheets](https://www.loom.com/share/7f1b1f444f1d45368475016804ca035d?sid=1a088e10-6bce-47d9-83b0-443c277aeee7)
+-<b>Average Calorie loss per workout/diet type
+  - [Using MySQL and Tableau to display data](https://www.loom.com/share/4371dc3d39af4f5a8516a003c9e4ee46)
+
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
