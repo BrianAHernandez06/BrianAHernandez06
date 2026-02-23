@@ -1,6 +1,6 @@
-<h1>Hey there, I'm Brian! --- Data Analyst and Cybersecurity Professional
+<h1>Hey there, I'm Brian Hernandez --- Data Analyst
 
-<h2>🧼 Data Analyst Projects:</h2>
+<h2>🧼 Data Cleaning and Analyst Projects:</h2>
 
 - <b>Video Game Genre Sales (2010)
   - [Praciting using SQL(BigQuery) and Google Spreadsheets](https://www.loom.com/share/7f1b1f444f1d45368475016804ca035d?sid=1a088e10-6bce-47d9-83b0-443c277aeee7)
