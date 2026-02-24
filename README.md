@@ -12,7 +12,12 @@
   - [Utilizing INNER JOIN, RIGHT JOIN, AND LEFT JOIN to combine and analyze data](https://docs.google.com/document/d/1Om-nO1n2um4fskTc5e4eREBJaOnJ5cxE2NXPYHXXYao/edit?usp=sharing)      
 
 
-<h2>👨‍💻 CyberSecurity Projects:</h2>
+<h2>👨‍💻 Coding Projects:</h2>
+- <b>IVIG Drug and Supply Calculator
+  - [A calculator made in Python to help calculate drug and supply quantities for everyday use. Includes custom scripting, automation, exit and while loops, Math automation and user inputs](https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL3UvYy82NDMwMjkxMDc1NTZlYjMwL0lRQlJBcmRPeXhJZ1NMVHJkanQ4QnBMN0FlNUh3M3dZRmhWd21ncV81UHh2VVd3&cid=643029107556EB30&id=643029107556EB30%21s4eb7025112cb4820b4eb763b7c0692fb&parId=643029107556EB30%21s5c3255100ccd44e3aa8c0e723ae1b0c5&o=OneUp)
+
+
+<h2>🔏 CyberSecurity Projects:</h2>
 
 - <b>Security Audit Controls and Compliance Checklist
   - [Conducting a simulated security audit for a for fictional company](https://docs.google.com/document/d/1EbjfMeVgB45Gr_5jzh2BFTSe3ZyGaQojzq7bhrBdnKk/edit?usp=sharing)
@@ -26,8 +31,8 @@
 <h2> 📑 Certifications:</h2>
 
 - [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/5SMKMAFRTGUT)
-- [CompTia Security+ Certificate](https://drive.google.com/file/d/1aezdoIkMVzmtgDc00QAh4aJhVs1A_PC3/view?usp=sharing)
-- [CompTia A+ Certificate](https://drive.google.com/file/d/1Tv3c3cgfTjoc_d42hzDHVOlhmVSIRN0l/view?usp=sharing)
+- [CompTIA Security+ Certificate](https://drive.google.com/file/d/1aezdoIkMVzmtgDc00QAh4aJhVs1A_PC3/view?usp=sharing)
+- [CompTIA A+ Certificate](https://drive.google.com/file/d/1Tv3c3cgfTjoc_d42hzDHVOlhmVSIRN0l/view?usp=sharing)
 
 <h2> 🤳 Connect with me:</h2>
 
