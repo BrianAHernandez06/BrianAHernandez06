@@ -7,7 +7,9 @@
 - <b>Average Calorie loss per workout/diet type
   - [Using MySQL and Tableau to display data](https://www.loom.com/share/4371dc3d39af4f5a8516a003c9e4ee46)
 - <b>Best Selling Video Games (2026 Project)
-  - [Cleaning a dataset within Excel and the =SUMIF and =VLOOKUP Syntax to help analyze data](https://docs.google.com/document/d/18LWen0Q7mDcwJ2GZa6Pbo4bwqajGL1ejvGbVzQ8Kh-o/edit?usp=sharing)     
+  - [Cleaning a dataset within Excel and the =SUMIF and =VLOOKUP Syntax to help analyze data](https://docs.google.com/document/d/18LWen0Q7mDcwJ2GZa6Pbo4bwqajGL1ejvGbVzQ8Kh-o/edit?usp=sharing)
+- <b>Using the Joins function within SQL
+  - [Utilizing INNER JOIN, RIGHT JOIN, AND LEFT JOIN to combine and analyze data](https://docs.google.com/document/d/1Om-nO1n2um4fskTc5e4eREBJaOnJ5cxE2NXPYHXXYao/edit?usp=sharing)      
 
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
