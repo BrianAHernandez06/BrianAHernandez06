@@ -6,6 +6,8 @@
   - [Praciting using SQL(BigQuery) and Google Spreadsheets](https://www.loom.com/share/7f1b1f444f1d45368475016804ca035d?sid=1a088e10-6bce-47d9-83b0-443c277aeee7)
 - <b>Average Calorie loss per workout/diet type
   - [Using MySQL and Tableau to display data](https://www.loom.com/share/4371dc3d39af4f5a8516a003c9e4ee46)
+- <b>Best Selling Video Games (2026 Project)
+  - [Cleaning a dataset within Excel and the =SUMIF and =VLOOKUP Syntax to help analyze data](https://docs.google.com/document/d/18LWen0Q7mDcwJ2GZa6Pbo4bwqajGL1ejvGbVzQ8Kh-o/edit?usp=sharing)     
 
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
