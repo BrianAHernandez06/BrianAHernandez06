@@ -40,8 +40,3 @@
 LinkedIn - [www.linkedin.com/in/brianh0626]
 
 Email - [brihz1875@hotmail.com]
-
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
