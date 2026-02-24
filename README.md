@@ -39,7 +39,7 @@
 
 LinkedIn - [www.linkedin.com/in/brianh0626]
 
-Email - [brianhernandez.260698@gmail.com]
+Email - [brihz1875@hotmail.com]
 
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
