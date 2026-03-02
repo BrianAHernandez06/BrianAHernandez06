@@ -15,7 +15,7 @@
 <h2>👨‍💻 Coding Projects:</h2>
 
 - <b>IVIG Drug and Supply Calculator (Python)
-  - [A calculator made in Python to help calculate drug and supply quantities for everyday use. Includes User inputs and Automation](https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL3UvYy82NDMwMjkxMDc1NTZlYjMwL0lRQlJBcmRPeXhJZ1NMVHJkanQ4QnBMN0FlNUh3M3dZRmhWd21ncV81UHh2VVd3&cid=643029107556EB30&id=643029107556EB30%21s4eb7025112cb4820b4eb763b7c0692fb&parId=643029107556EB30%21s5c3255100ccd44e3aa8c0e723ae1b0c5&o=OneUp)
+  - [A calculator made in Python to help calculate drug and supply quantities for everyday use. Includes GUI](file:///C:/Users/BriHZ/PycharmProjects/PythonProject1/IVIG%20Calculator%20GUI.py)
 
 
 <h2>🔏 CyberSecurity Projects:</h2>
